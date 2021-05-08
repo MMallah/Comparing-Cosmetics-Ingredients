@@ -8,4 +8,4 @@ Content-based recommendation system based on ingredients
 * Visualize the composition similiarty between products.
 * Now it is easier to find similar products and compare prices.
 
-![ingredients breakdown](image_3.PNG)
+![ingredients breakdown](https://github.com/MMallah/Mallah_Portfolio/blob/main/images/project%202%20image_3.PNG)
