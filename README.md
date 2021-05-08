@@ -7,3 +7,4 @@ Content-based recommendation system based on ingredients
 * Utilizse T-SNE for dimensionality reduction to make it easier to compare products.
 * Visualize the composition similiarty between products.
 * Now it is easier to find similar products and compare prices.
+![ingredients breakdown](image_3.PNG)
