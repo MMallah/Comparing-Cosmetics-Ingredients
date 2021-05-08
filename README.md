@@ -1,4 +1,4 @@
-# Project 2:Comparing Cosmetics Products By Ingredients[]
+# [Project 2:Comparing Cosmetics Products By Ingredients](https://github.com/MMallah/Comparing-Cosmetics-Ingredients/blob/main/Comparing%20Cosmetics%20Products%20By%20Ingredients.ipynb)
 Content-based recommendation system based on ingredients
 
 * Create a content-based recommendation system based on ingredients.
